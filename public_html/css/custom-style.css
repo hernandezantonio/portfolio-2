@@ -2,24 +2,17 @@ div {
     border-style: solid; 
     border-width: 5px;
     border-color: lightblue; 
-    padding: 50px;
+    padding: 30px;
+     
 }
+
 .container {
-    border-color: blue; 
+    border-color: white; 
 }
 .row {
-    border-color: lightgrey; 
-}
-.list-group-item{
-    border: 0;
-    margin-top: 40px; 
-    margin-bottom: 40px; 
-    
-}
-nav{
-    border-width: 5px;
-    padding: 30px; 
-}
-body{
-    background-image: 
-}
+    border-color: lightgrey;
+    top: 30px;
+    } 
+    body {
+        
+    }
